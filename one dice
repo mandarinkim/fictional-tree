@@ -1,0 +1,5 @@
+#import library
+import random
+
+#throw and get random number
+print("come out: ", random.randrange(1,7))
