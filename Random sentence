@@ -1,0 +1,9 @@
+#import library
+import random
+
+#random animal, random color
+animal=random.choice["cat", "dog", "alpaca"]
+color=random.choice["black", "yellow", "pink"]
+
+#print one animal and one color
+print("You are in love with: ", color, animal)
