@@ -1,0 +1,6 @@
+import random
+
+coinToss=random.choice("HT")
+print()
+print("You've got", coinToss)
+print()
